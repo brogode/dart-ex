@@ -4,8 +4,8 @@ import "dart:convert";
 
 class  Details{
   String me(){
-    String firstName = 'Godfrey';
-    String lastName = 'Manjoro';
+    String firstName = 'ey';
+    String lastName = 'Mano';
     DateTime currentTime = DateTime.now();
 
     return 'Hello, ${firstName} ${lastName}, \n${currentTime}';
